@@ -36,12 +36,7 @@ jupyter lab
 jupyter notebook
 ```
 
-Open notebooks from the [elementary_statistics](elementary_statistics) and
-[tools_and_techniques](tools_and_techniques) folders.
-
 **Interactive research platform**
-
-This repository now includes a minimal interactive research package: `qecon_platform`.
 
 - Package: `qecon_platform` — contains simulation helpers in `qecon_platform/simulation.py`.
 - Example notebook: `examples/interactive_demo.ipynb` demonstrates the Ornstein–Uhlenbeck
