@@ -39,6 +39,25 @@ jupyter notebook
 Open notebooks from the [elementary_statistics](elementary_statistics) and
 [tools_and_techniques](tools_and_techniques) folders.
 
+**Interactive research platform**
+
+This repository now includes a minimal interactive research package: `qecon_platform`.
+
+- Package: `qecon_platform` — contains simulation helpers in `qecon_platform/simulation.py`.
+- Example notebook: `examples/interactive_demo.ipynb` demonstrates the Ornstein–Uhlenbeck
+	simulator and a tiny agent-based microeconomic model. It uses `ipywidgets` for
+	parameter sliders.
+
+To run the demo after installing dependencies:
+
+```bash
+source .venv/bin/activate
+pip install -r requirements.txt
+jupyter lab
+```
+
+Open `examples/interactive_demo.ipynb` and run the cells.
+
 **Development notes**
 
 - Dependencies are listed in [requirements.txt](requirements.txt). If you add
