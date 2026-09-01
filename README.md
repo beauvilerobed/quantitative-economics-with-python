@@ -1,9 +1,5 @@
 # quantitative-economics-with-python
-
-A collection of Jupyter notebooks and supporting materials for learning quantitative
-economics and applied statistics using Python. The notebooks cover elementary
-probability and statistics concepts, numerical methods, and practical tools and
-techniques used in quantitative research.
+Built an open-source interactive research platform executing computational microeconomics and macroeconomic stochastic data modeling. 
 
 **Repository structure**
 
