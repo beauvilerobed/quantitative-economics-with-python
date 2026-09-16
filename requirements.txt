@@ -6,3 +6,7 @@ prettytable==3.7.0
 ipywidgets
 jupyter
 jupyterlab
+numpyro 
+jax 
+arviz
+pymc

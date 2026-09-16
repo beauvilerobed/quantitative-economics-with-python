@@ -9,6 +9,8 @@ Built an open-source interactive research platform executing computational micro
 - [tools_and_techniques](tools_and_techniques): Notebooks demonstrating
 	numerical methods, linear algebra techniques, SVD, DMD, Newton methods, and
 	applied modeling examples (e.g., simple COVID-19 modeling).
+- [bayes_law](tools_and_techniques): Notebooks non conjugate priors, posterior distributions 
+	for AR(1) parameters, forcasting ar1 process.
 
 **Quick start**
 
