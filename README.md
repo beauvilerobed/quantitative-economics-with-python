@@ -10,7 +10,7 @@ Built an open-source interactive research platform executing computational micro
 	numerical methods, linear algebra techniques, SVD, DMD, Newton methods, and
 	applied modeling examples (e.g., simple COVID-19 modeling).
 - [bayes_law](tools_and_techniques): Notebooks demonstating non conjugate priors, posterior distributions 
-	for AR(1) parameters, forcasting ar1 process.
+	for AR(1) parameters, forcasting AR(1) process.
 
 **Quick start**
 
